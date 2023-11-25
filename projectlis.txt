@@ -120,8 +120,6 @@ Habit Tracking App
 
 Lost and Found Platform
 
-Gift Registry
-
 Virtual Wedding Planner
 
 Animal Adoption Platform
