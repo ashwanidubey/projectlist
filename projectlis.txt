@@ -68,8 +68,6 @@ Goal Tracker
 
 Collaborative Code Editor
 
-CRM (Customer Relationship Management) System
-
 Resume Builder (it is website that will build resume )
 
 Movie Recommendation App
